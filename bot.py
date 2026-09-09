@@ -14,7 +14,7 @@ from telegram.ext import (
     filters,
 )
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "PUT_YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8974007638:AAHWG9GgPZlWqdZ9x6YrcIs-5QlODaBFy4k")
 ADMIN_ID = int(os.getenv("ADMIN_ID", "8523446298"))
 DATA_FILE = "data.json"
 
